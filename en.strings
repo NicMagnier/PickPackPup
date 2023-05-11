@@ -1,0 +1,249 @@
+-- Game modes names
+"ModeTutorial" = "Tutorial"
+"ModePlay" = "Infinity Mode"
+"ModeStory" = "Story"
+"ModeRelax" = "Chill Mode"
+"ModeBomb" = "Danger Zone"
+"ModeTimeAttack" = "Time Attack"
+"ModeSecret" = "Secret Mode"
+"ModeComic" = "Read Comics"
+"ModeSettings" = "Settings"
+"ModeHighcore" = "Stats & Highscores"
+"ModeCredits" = "Credits"
+"ModeDebug" = "_Debug_"
+
+-- Pause Menu
+"PauseResume" = "Resume Game"
+"PauseReset" = "Restart"
+"PauseSettings" = "Settings"
+"PauseQuitTutorial" = "Quit Tutorial"
+"PauseQuit" = "Back to Main Menu"
+"PauseQuitMessage" = "*Are you sure you want\nto quit this game mode?*"
+"PauseQuitNo" = "No"
+"PauseQuitYes" = "Yes"
+
+-- Game modes explanations
+"tutorial_pause_memo" = "*The Tutorial*\n\nAll packing pups need to start somewhere, and you are in the right game mode for that."
+"normal_pause_memo" = "*Infinity Mode*\n\nPlay as long as you want, there is no game over.\n\nAs your score goes up, so does the penalty for losing tiles off the bottom of the screen."
+"relax_pause_memo" = "*Chill Mode*\n\nNo time pressure or points to score - take your time and relax! Try to match as many items as possible on a single screen."
+"withgameover_pause_memo" = "*No waste*\n\nThe game ends if three boxes get trashed."
+"bomb_pause_memo" = "*Bombs!!!*\n\nDon't let any bombs fall off the bottom of the screen!\nPack them up and ship them out of here!"
+"drop_pause_memo" = "*Drop Mode*\n\nWe send items to you one by one and you have to ship as many boxes as possible.\n\n And don't clog the production line."
+"timeattack_pause_memo" = "*Time Attack*\n\nScore the most points before the timer is up!"
+"secret_pause_memo" = "*Secret Mode*\n\nScore the most points you can, but you can only ship 10 times. No time pressure.\n\nCan you spot which Playdate games are being shipped?"
+
+
+-- Story mode
+"lvl1_memo_1" = "Dear Worker,\n\nWelcome to Fetch! As one of the world's leading fulfilment centres, we are constantly delivering packages to our loyal customers. We are pleased to be offering you this employment opportunity,"
+"lvl1_memo_2" = "and look forward to many productive days working together.\n\nManagement will be keeping a close eye on your progress. Are you ready to pick and pack, pup?"
+"lvl1_memo_3" = "Today's task is to pick, pack and ship $500 worth of goods.\n\nPack a total of 10 boxes to recieve a $300 bonus."
+"lvl1_pause_memo" = "Welcome Pup.\n\nYou have to ship $500 worth of goods.\n\n$300 bonus if you can pick and pack 10 boxes."
+
+"lvl2_memo_1" = "Your supervisor told me you did a good job with those boxes yesterday. Who's a good boy?"
+"lvl2_memo_2" = "Today, let's focus on upping that productivity, and add more product inside packages.\n\nTry to match 4 items together in one box. Show me how much you want this job!"
+"lvl2_pause_memo" = "\nShip $1000 worth of goods.\n\n$600 bonus if you can pack a box of 4 identical items."
+
+"lvl3_memo_1" = "Did you know we lose 80% of our new employees during the first two days of work?\nHR can't understand why.\n\nBut you look like a sharp pup, I'm sure we can rely on you to work hard for Fetch!"
+"lvl3_memo_2" = "Did you already try to ship multiple boxes at once?\nTry to ship as many packages per shipment as possible and the value of the shipment will multiply.\n\nWho doesn't like multiplying value? Certainly not me."
+"lvl3_memo_3" = "Today's challenge: Ship 5 boxes at once.\n\nWe'll get be a nice $600 bonus for that you know."
+"lvl3_pause_memo" = "\nShip $1000 worth of goods.\n\n$600 bonus if you can ship 5 boxes at once."
+
+"lvl4_memo_1" = "It's #MakingLinesThursday.\nOur marketing team's favourite day of the week!\n\nWe love lines here. Lines of packages going out the door. Lines of trucks full of cash. Good times!"
+"lvl4_memo_2" = "Try to fill the entire bottom row with boxes! This is a good test of your line skills.\nThere'll be a big bonus for you if you do that and for our social media team if they get the hashtag trending!"
+"lvl4_pause_memo" = "\nShip $1000 worth of goods.\n\n$600 bonus if you can fill the bottom line with boxes."
+
+"banana_memo_1" = "Our AI algorithms have detected a surge in demand for bananas. There's lots of orders coming in, so we're expecting you to ship at least 100 bananas in this shift."
+"banana_memo_2" = "I want to see bananas soaring out that door, and profits soaring through the roof!"
+"banana_pause_memo" = "\nShip 100 bananas"
+
+"lvl5_memo_1" = "We introduce today a revolutionary inventory system: Pack it, or we trash it.\n\nFrom today we will trash regularly the bottom of your production line to motivate you to pack and ship as fast as you can."
+"lvl5_memo_2" = "Every item in the trash will be deducted from your pay but don't worry, we also believe in positive reinforcement:\nYou will get a good bonus (only today of course) if none of your package get trashed for a whole\nminute."
+"lvl5_pause_memo" = "\nShip $1500 worth of goods. The bottom row of items is trashed every 20 seconds.\n\n$1000 bonus if you do not lose a single box for 60 consecutive seconds."
+
+"match_five_memo_1" = "In order for the management to receive bigger bonuses this year, we need to see more efficient shipments going out. Really maximise those boxes!\n\nMatch 5 items together three times."
+"match_five_pause_memo" = "\nShip $2000 worth of goods.\n\nChallenge: Match 5 items together three times."
+
+"apple_memo_1" = "Uh oh. After our banana bonanza the other day, apples haven't been selling as well, and our massive stock is starting to rot. Let's dump the price, and push them out of the door AS FAST AS POSSIBLE.\n\nHop to it, pup!"
+"apple_pause_memo" = "\nShip 100 apples in less than 2 minutes"
+
+"book_memo_1" = "Fetch is proud to provide plenty of opportunities for employees to enjoy culture. You can read any of the books in our warehouse-\n\njust make sure to pack them and ship them out when you're done!"
+"book_memo_2" = "And watch out for the time again. We will trash the bottom row every 20 seconds.\n\nEnjoy reading and packing."
+"book_pause_memo" = "\nHave a break. Here some books... to pack."
+
+"boxed_edge_memo_1" = "A good warehouse is a well-organised warehouse!\nThe secret is to control where to pack a box. You don't want one in the middle blocking your moves.\n\nShow me how well you can put boxes together."
+"boxed_edge_memo_2" = "So your challenge today: Pack boxes all the way around the edge of your work area. There shouln't be any unpacked items on the left and right columns and top and bottom lines.\nTake as long as you need."
+"boxed_edge_pause_memo" = "\nShip $10.000 worth of goods.\n\nChallenge: Have boxes all the way around the edge of the board.\n\nTip: Start with the corners, just like a jigsaw."
+
+"big_score_memo_1" = "\n*BZZZZRRRTTT*\n\nTechnically that's the end of the work day, but we're $1000 short of our daily target, so make that up in the next 5 shipments or don't bother coming back in the morning."
+"big_score_pause_memo" = "\nObjective: Make 1000$ in only 5 shipments\n\nTips: Big boxes have much more value. Pack as many boxes as possible to multiply the value."
+
+"two_big_boxes_memo_1" = "We've noticed that some packers aren't shipping enough big boxes.\n\nShipping only 3 items per box is like leaving money on the floor. Our shareholders prefer that money in their pocket!"
+"two_big_boxes_memo_2" = "Your challenge today: Make some big boxes!\nI'm talking about five items per box! And not just one from time to time:\n\nShip two boxes of 5 items in a single shipment."
+"two_big_boxes_pause_memo" = "\nShip $2000 worth of goods.\n\nChallenge: Create 2 boxes of 5 items on the same screen"
+
+"match_seven_memo_1" = "7 items in a single box!\n\nAfter years of research, our team of scientists figured out that packers can make a massive box of 7 matching items.\n\nWhat a breakthrough!"
+"match_seven_memo_2" = "So today, take your time and follow our scientists' research notes to a 'T'.\n\nMake the biggest box imaginable, with 7 items!"
+"match_seven_pause_memo" = "\nShip $5000 worth of goods.\n\nChallenge: Match 7 items together in one box. No time limit."
+
+"prevent_trashing_memo_1" = "It's Earth Day, so if we don't reduce wastage around here there'll be some huge fines coming our way.\n\nCan you figure out a way to reduce the number of items and boxes going to waste when we trash your last line?"
+"prevent_trashing_memo_2" = "I'm sure if you ship boxes along the bottom row just before the automatic trash timer runs out, some items might be spared.\nYou'll help us go green and save the planet!"
+"prevent_trashing_pause_memo" = "\nSave 6 items for being trashed.\n\nTip: Try to ship a big load of boxes just before the trash timer is activated."
+
+"panic_memo_1" = "Today's assignment:\n\nWe have a special client today that needs to have their new fangled game console doohickey shipped out.\nIt's some kind of fancy yellow gadget. Don't ask me, I prefer Excel spreadsheets and tax avoidance."
+"panic_memo_2" = "They've also sent one of their associates to help you out... or something.\n\nThey don't have a job title, so I'm not exactly sure what they're here to do.\n\nThey've got a mischievous look in their eye..."
+"panic_memo_3" = "In addition to their yellow plastic thingy, they also are shipping some games.\n\nSo, well, tons of work for you today.\n\nGet cranking!"
+"panic_pause_memo" = "\nObjective: Ship $2000 of goods.\n\nDon't get bitten.\n\n\n\n\nH o n k !"
+
+"match_diamond_memo_1" = "Have you seen any Fetch Diamonds yet?\nConsider yourself lucky!\n\nWork long enough to find and match 3 or more diamonds together, and the management will be pleased with your effort."
+"match_diamond_memo_2" = "Disclaimer: Fetch Diamonds have no monetary value outside of the fulfillment centre, and are purely to track the internal performance of our staff. "
+"match_diamond_pause_memo" = "\nChallenge: Match 3 diamonds together."
+
+"one_shot_diamond_memo_1" = "The value of theses diamonds is incredible!\n\nHere the deal, today you can do only ONE shipment!\nBut the shipment has be over $800 otherwise you can pack your bags.\n\nShow me the Money!"
+"one_shot_diamond_pause_memo" = "\nObjective: Make $800 in a single shipment.\n\nTips: Make sure to match the diamonds and to pack as many boxes as possible before you ship."
+
+"match_five_diamonds_memo_1" = "Morning, pup. Ready for another day at the world's greatest and most profitable company?\n\nI have to say I'm getting hooked on these diamonds. Imagine the profits if you could match 5 of them."
+"match_five_diamonds_memo_2" = "Let's not imagine and instead make it a reality.\n\nToday I want you to match me 5 diamonds in a single box."
+"match_five_diamonds_pause_memo" = "\nChallenge: Match 5 diamonds in one box."
+
+"quick_trash_memo_1" = "Oh no!\nOur trashing machine has gone hawire! It's trashing stock every second!\n\nI don't care about the rest of this junk, just save me those precious diamonds!"
+"quick_trash_memo_2" = "Simply match diamonds together as fast as you can (and send them to my wife).\n\nSend 5 boxes of diamonds and I'll make sure you get something nice in return."
+"quick_trash_pause_memo" = "\nObjective: Ship $200. \nChallenge: Ship 5 boxes of diamonds for a $150 bonus."
+
+"holiday_memo_1" = "Congratulations on your holiday pup! After all the hard work you did, you deserve it.\n\nWelcome to Fetch Island, where the sky is blue and the water's warm and clear. Take a deep breath, you've earned it.\nThis is your time..."
+"holiday_memo_2" = "Your time to work!\nWe pay for these holidays so we still expect you to ship product from our island fulfillment centre.\nIt's off-shore, so normal labour laws don't apply. You're all on half wages and longer hours\nhere! "
+"holiday_pause_memo" = "\nRelax...\n\nWalk on the beach...\n\nShip $2000 of goods.\n\nEnjoy the sun..."
+
+"overflow_memo_1" = "While you were off on your holiday having a lovely time, the shipment conveyor belt broke, so now we cannot ship anything and we still have some items coming in.\n\nIt's been an absolute nightmare, to tell you the truth."
+"overflow_memo_2" = "Do not overflow otherwise more machines will break!\n\nMake sure the trasher dispose of as many items and boxes as possible, pack some nice tall boxes. No break for you today by the way."
+"overflow_pause_memo" = "\nYou cannot ship anything. Don't let the board fill up!\n\nHint: Pack tall boxes for the trash."
+
+"tetromino_memo_1" = "We've got a Special Order today, going to Russia.\n\nThey've ordered a bunch of vintage blocks- really valuable historic pieces, so show some respect!"
+"tetromino_memo_2" = "It seems what they've really been waiting for is the long blocks, so let's prioritise those.\n\nMake one vertical box of 5 long blocks and we'll look good for our overseas clients."
+"tetromino_pause_memo" = "\nObjective: Ship $500 of goods.\n\nChallenge: Ship a vertical box packed with 5 tall blocks."
+
+"timeattack1_memo_1" = "Tomorrow's a bank holiday, and while I'm sure you're excited for a day off, we at upper management are not.\n\nAll that wasted productivity time means we're going to be working extra hard today to make up."
+"timeattack1_memo_2" = "You have 3 minutes to do your quotas of tomorrow: Shipping $2000 of junk.\n\nI want to see some hustle out there. Get to work!"
+"timeattack1_pause_memo" = "\nShip $2000 of goods in less than 3 minutes"
+
+"pasta_memo_1" = "The CEO went to an amazing Italian restaurant last night, and now he wants the warehouse to be full of pasta.\nSo we've rebranded as Fetchuccine, and attached pasta extruders to all the goods chutes."
+"pasta_memo_2" = "Pack them up as fast as you can and ship at least $1500 worth of delicious carbs.\nAnd don't overlow the pasta machine.\n\nCiao"
+"pasta_pause_memo" = "\nShip $1500 of pasta"
+
+"send_all_memo_1" = "Got a bit of a fiddly one for you today.\n\nAfter an unfortunate accident, we can't have any leftover bars of soap lying around for workers to slip up on - so make sure you pack and ship them all, every time."
+"send_all_memo_2" = "We give you all the time you want but don't leave any soap behind!\nIs that clear?\n\nI used to be addicted to soap. But I'm clean now."
+"send_all_pause_memo" = "\nPack and ship all the soap on the board. Don't leave any soap behind."
+
+"insurance_scam_memo_1" = "A Message from the CFO:\n\nGood morning subordinates,\n\nAs a big company, Fetch aims to provide the best - for our customers, and most importantly for our shareholders."
+"insurance_scam_memo_2" = "Today we're running an exercise in waste management, and testing the limits of our insurance contracts.\n\nYou scrap as many boxes as you can (big box, small box, our contract doesn't care), and we'll get a nice juicy insurance payout."
+"insurance_scam_memo_3" = "Our accountant Frankie the Book assures us it's all totally legit.\n\nDisclaimer: Fetch and our CFO do not approve or encourage insurance scams."
+"insurance_scam_pause_memo" = "\nTrash as many boxes as possible in a limited time.\n\nTips: You'll fit more boxes along the bottom row if they're vertical.\nShip and awkwardly shaped boxes to clear the way."
+
+"robot0_memo_1" = "Training Day\n\nAt Fetch we believe in helping our hard working and valued employees to learn new skills and qualifications."
+"robot0_memo_2" = "So today you will be having a lesson in electro-mechanical robotic engineering.\n\nExciting stuff!\n\nOn the next page our experts have prepared some easy to follow step by step instructions."
+"robot0_memo_3" = "How to build P1KPAKPUPTR0N\n\n1. Place torso on top of legs.\n2. Place head on top of torso.\n3. Pack and Ship\n4. Repeat"
+"robot0_pause_memo" = "How to build P1KPAKPUPTR0N\n\n1. Place torso on top of legs.\n2. Place head on top of torso.\n3. Pack and Ship\n4. Repeat"
+
+"robot1_memo_1" = "That was some great training!\n\nYou did a great job with those robots, so we're giving you some additional responsibilities, and promoting you to Robot Assembly Staff. Congratulations!"
+"robot1_memo_2" = "Keep assembling these shiny, cost-effective, profit-making new robots, and also pack their batteries together.\n\nThese puppies will need some juice when we will power them on!"
+"robot1_pause_memo" = "\nAssemble robots to fill \nRememeber: Head on top of torso on top of legs.\n\nMatch battery together and ship them."
+
+"robot2_memo_1" = "It's another lovely day at Fetch, and robot production is coming along nicely. Keep up production!"
+"robot2_memo_2" = "ALL ROBOTS SET TO SELF DESTRUCT UPON ASSEMBLY. Destroy as much stock as you can, and bring down the company!"
+"robot2_pause_memo" = "\nDestroy as many items as possible by assembling the self-destructing robots."
+
+"Finale_memo_1" = "Welcome aboard FetchX, an experimental space rocket bringing Fetch products everywhere in our solar system.\n\nOur latest brilliant expansion plan!"
+"Finale_memo_2" = "Our misson today is to expand the reach of Fetch to the planet which is the most likely to have a potential interest in buying our product:\n\nMars!\n\nAnd it is only 40 Millions Miles away."
+"Finale_memo_3" = "Please combine any remaining items, and ship them directly into my fuel tank to power our onward journey.\n\nNext stop, Mars!"
+"Finale_pause_memo" = "\nReach Mars"
+
+
+-- Tutorial
+"tutorial_welcome" = "This is the tutorial. Let's learn the ropes!"
+"tutorial_move_tile" = "Move your hand with the Direction Buttons and grab items by holding the A button. Can you bring my ball here?"
+"tutorial_move_tile_end" = "Woof! Thanks!"
+"tutorial_match_three_tiles" = "You can pack up matching items by moving them next to each other."
+"tutorial_match_three_tiles_end" = "It's a match!"
+"tutorial_ship_box" = "Now just press the A button on the box to ship it."
+"tutorial_ship_single_boxes" = "Good! Let's ship few more boxes."
+"tutorial_ship_single_boxes_end" = "The goal of the game is to make as many matches and ship as many boxes as you can."
+"tutorial_ship_multiple_box" = "Boxes are shipped all together for maximum productivity. Bigger batch means bigger points."
+"tutorial_ship_multiple_box_end" = "Arf! So many boxes!"
+"tutorial_advanced_diagonal" = "As a bonus here an advance packing technique. You can squeeze items between boxes with a diagonal move."
+"tutorial_advanced_diagonal_end" = "Smooth!\nNow just ship the boxes and let's have some fun."
+"tutorial_tryout_intro" = "Ok let's drop some more items and have a go at matching and shipping."
+"tutorial_tryout_end" = "Good. Press the button B when you want to quit the tutorial."
+"tutorial_tryout_nobox" = "You can make a box by matching items together."
+"tutorial_tryout_1" = "That's good"
+"tutorial_tryout_2" = "Don't forget to ship any packed boxes."
+"tutorial_tryout_3" = "You're a natural!"
+
+-- Various talk
+"talk_robot_instruction" = "One robot to assemble shouldn't be so hard. Head. Torso. Feet"
+"talk_robot_more" = "Let's build some more robots!"
+"talk_robot_energy" = "We need some energy to power up these robots."
+"talk_robot_trash" = "Let's destroy these robots!"
+"talk_intro_normal_mode" = "Let's play!"
+"talk_intro_relax_mode" = "Let's chill together and match as many items as possible."
+"talk_relax_first_highscore" = "After 10 shipments, we calculate your performance. You did well."
+"talk_relax_new_highscore" = "{1} is your new best average. Well done."
+"talk_intro_timeattack_mode" = "Hurry!!\nYou only have 2 minutes."
+"talk_intro_bomb_mode" = "Safety first. Make sure bombs are shipped and not trashed."
+"talk_goose" = "h o n k"
+
+-- Shipement rating
+"rating_onebox" = "Just one box?"
+"rating_1" = "Fine"
+"rating_2" = "OK"
+"rating_3" = "Nice"
+"rating_4" = "Good work"
+"rating_5" = "Great work"
+"rating_6" = "Amazing work!"
+"rating_7" = "Simply PERFECT!"
+
+-- Relax rating
+"relax_rating_bad_1" = "Remember, you need to ship as many items as possible."
+"relax_rating_bad_2" = "There is too much going in the trash. I know you can do better."
+"relax_rating_low_1" = "Only {1} gizmos shipped?"
+"relax_rating_low_2" = "You can do better than {1}, I believe in you."
+"relax_rating_good_1" = "{1} items in the truck. Nice."
+"relax_rating_good_2" = "{1} on their way out!"
+"relax_rating_great" = "Great work! {1} items were packed and shipped!"
+"relax_rating_excellent" = "{1} items delivered? Amazing!"
+"relax_rating_near_perfect" = "So close to a perfect screen!"
+"relax_rating_perfect" = "Simply PERFECT!"
+
+-- UI
+"ui_highscore" = "Highscore"
+"ui_penatly" = "Penalty"
+"ui_challenge" = "Challenge"
+"ui_total_shipped" = "Boxes shipped"
+"ui_biggest_shipment" = "Biggest shipment"
+"ui_relax_score" = "Packed Items"
+"ui_relax_total" = "Last 10 Average"
+"ui_relax_total_need_more" = "{1} more needed..."
+"ui_order_sheet" = "Special\nOrder"
+"ui_shipments" = "Shipments"
+"ui_insurance" = "Insurance Claims"
+"ui_robots" = "Assembled\nrobots"
+"ui_energy" = "Battery\nPacks"
+"ui_robots_in_trash" = "Robots\nDestruction"
+
+"custom_tileset_enabled" = "*Use custom items*"
+"custom_tileset_disabled" = "*Use default items*"
+
+"reset_progress_instruction" = "*To delete all your progress, crank up to the top*"
+"reset_progress_cancel" = "*Press B Button to cancel*"
+"reset_progress_talk_1" = "Hey, What's up? What are we doing here?"
+"reset_progress_talk_2" = "Cranking hard, or hardly cranking? LOL!"
+"reset_progress_talk_3" = "Oh no! are you deleting your save?"
+"reset_progress_talk_4" = "You'll lose all your progress and high scores!"
+"reset_progress_talk_5" = "And all the beautiful moments we've spent togther!"
+"reset_progress_talk_6" = "This is a prank, right?"
+"reset_progress_talk_7" = "Oh wow, you're serious!"
+"reset_progress_talk_8" = "Is this how it all ends?"
+"reset_progress_talk_9" = "I can feel myself fading away..."
+"reset_progress_talk_10" = "Goodbye my friend!"
+
+"comic_close_in_reader" = "*Press A or B to go back*"
+"comic_close_in_story_with_crank" = "*Dock the Crank to continue*"
+"comic_close_in_story_without_crank" = "*Press A to continue*"

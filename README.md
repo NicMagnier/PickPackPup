@@ -24,4 +24,4 @@ No. The source code is not open sourced.
 
 *Can I use the source code in my project?*
 
-If you find some piece of code that are interesting to you, feel free to use it. But the repository should not be used to create a port of a clone of the game.
+If you find some piece of code that are interesting to you, feel free to use it. But the repository should not be used to create a port or a clone of the game.

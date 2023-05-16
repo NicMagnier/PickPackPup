@@ -15,3 +15,13 @@ Feel free to reach out if you have any questions.
 | lieb/  | Framework containing a lot of reusable code  |
 | code/game.lua  | Core gameplay loop  |
 | code/story_levels.lua  | scripting for each levels from the story mode  |
+
+## FAQ
+
+*Can I port the game on another platform?*
+
+No. The source code is not open sourced.
+
+*Can I use the source code in my project?*
+
+If you find some piece of code that are interesting to you, feel free to use it. But the repository should not be used to create a port of a clone of the game.
